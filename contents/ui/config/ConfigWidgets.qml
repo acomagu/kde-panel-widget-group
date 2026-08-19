@@ -25,7 +25,7 @@ KCM.SimpleKCM {
     property var cfg_expanding
     property var cfg_length
 
-    readonly property string ownPluginId: "com.acomagu.panelwidgetgroup"
+    readonly property string ownPluginId: "com.acomagu.widgetgroup"
 
     function sameStringList(left, right): bool {
         if (!left || !right || left.length !== right.length) {

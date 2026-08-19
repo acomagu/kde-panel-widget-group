@@ -11,7 +11,7 @@
         "Description": "Combines multiple widgets into one panel item",
         "EnabledByDefault": true,
         "Icon": "view-grid-symbolic",
-        "Id": "com.acomagu.panelwidgetgroup",
+        "Id": "com.acomagu.widgetgroup",
         "License": "MIT",
         "Name": "Panel Widget Group",
         "Version": "1.0"
