@@ -1,0 +1,21 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "acomagu"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "Combines multiple widgets into one panel item",
+        "EnabledByDefault": true,
+        "Icon": "view-grid-symbolic",
+        "Id": "com.acomagu.panelwidgetgroup",
+        "License": "MIT",
+        "Name": "Panel Widget Group",
+        "Version": "1.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-ContainmentType": "CustomEmbedded"
+}
