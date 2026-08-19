@@ -17,8 +17,18 @@ Open **Configure Panel Widget Group** from the widget's context menu.
 
 ## Install
 
+### Nix
+
 ```sh
 nix profile install github:acomagu/kde-panel-widget-group
+```
+
+### Other distributions
+
+```sh
+git clone https://github.com/acomagu/kde-panel-widget-group.git
+cd kde-panel-widget-group
+kpackagetool6 --type Plasma/Applet --install .
 ```
 
 Then add **Panel Widget Group** from Plasma's widget explorer.
