@@ -2,15 +2,11 @@
 
 A KDE Plasma 6 widget that combines multiple widgets into one panel item.
 
-## Install
-
-```sh
-nix profile install github:acomagu/kde-panel-widget-group
-```
-
-Then add **Panel Widget Group** from Plasma's widget explorer.
+<img width="468" height="446" alt="Image" src="https://github.com/user-attachments/assets/dbf21144-2ed4-4fe2-8f31-729798ace149" />
 
 ## Settings
+
+<img width="506" height="394" alt="image" src="https://github.com/user-attachments/assets/769cd79c-d308-448d-8de4-db0c6c3db8fa" />
 
 Open **Configure Panel Widget Group** from the widget's context menu.
 
@@ -18,3 +14,11 @@ Open **Configure Panel Widget Group** from the widget's context menu.
 - Select **Compact** for the widget to display in the panel.
 - Use the arrow buttons to change the order in the popup.
 - Use the configure and remove buttons to manage each widget.
+
+## Install
+
+```sh
+nix profile install github:acomagu/kde-panel-widget-group
+```
+
+Then add **Panel Widget Group** from Plasma's widget explorer.
